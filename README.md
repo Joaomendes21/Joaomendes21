@@ -1,4 +1,4 @@
-## Olá! Eu Sou o João Mendes
+## Olá devs ou recruiters! Eu Sou o João Mendes, Seja bem-vindo
 ⭐ Estudando Programação Web ⭐
 
 <div align="center">
